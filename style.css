@@ -1,0 +1,76 @@
+body {
+	font-family: Roboto;
+	margin: 0 auto;
+	max-width: 80%;
+}
+
+h4 {
+	font-weight: normal;
+}
+
+ol {
+	list-style-type: none;
+}
+
+p {
+	padding: 3px;
+}
+
+a:link, a:visited {
+	color: #65000B;
+
+}
+
+#top {
+	background-image: url(https://lh3.googleusercontent.com/XnIv9SDwxcAyryDVYxcvRnRP1GB__4rmyPWNa1fyINrfaZDlAFmptyFxMg0ITQiWHVP1qHrV44m1VeZ02gwD=s0);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-color: #65000B;
+	color: white;
+	font-size: 28px;
+	text-align: center;
+	border-radius: 10px;
+	padding-top: 60px;
+	padding-bottom: 60px;
+	margin: 10px;
+}
+
+.toc-title {
+	font-style: italic;
+}
+
+.lesson {
+	margin: 5px;
+	padding: 5px;
+	background-color: gray;
+	border-radius: 10px;
+}
+
+.lesson-title-bar {
+	display: flex;
+	margin: 5px;
+}
+
+.lesson-title {
+
+	font-style: italic;
+	width: 80%;
+}
+
+.concept {
+	background-color: silver;
+	border-radius: 10px;
+	margin: 5px;
+	padding: 5px;
+}
+
+.top-link {
+	width: 20%;
+	color: ;
+	text-align: right;
+}
+
+.code {
+	font-family: monospace;
+	font-size: 14px;
+}
